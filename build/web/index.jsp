@@ -116,9 +116,8 @@
                 <div id="sidebar">
                     <div id="sidebar-main">
                         <p>Kontak kami: <br/>
-                            jl. petukangan utara, Jakarta selatan <br/>
+                            Jakarta, Indonesia <br/>
                             email: puskesmasonline@gmail.com<br/>
-                            cp:02109898xxx<br/>
                        </p>
                     </div>
                 </div>
@@ -137,7 +136,7 @@
                 </div>
             </div>
                 <div id="footer">
-                    <p>Copyright 2014 | Design Hery Septyadi and Yanuarius Bhae Beso</p>
+                    <p>Copyright 2014 | Design Hery Septyadi</p>
                 </div>
         </div>
     </body>
